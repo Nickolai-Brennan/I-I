@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Create main directories
+mkdir -p Project_Files/Assets/Images/Thumbnails
+mkdir -p Project_Files/Assets/Images/Cover_Images
+mkdir -p Project_Files/Assets/Images/Screenshots
+mkdir -p Project_Files/Assets/Videos/Interviews
+mkdir -p Project_Files/Assets/Videos/B-Roll
+mkdir -p Project_Files/Assets/Videos/Trailers
+mkdir -p Project_Files/Assets/Audio/Voiceovers
+mkdir -p Project_Files/Assets/Audio/Music
+mkdir -p Project_Files/Assets/Audio/Sound_Effects
+mkdir -p Project_Files/Assets/Designs/Illustrations
+mkdir -p Project_Files/Assets/Designs/Canva_Exports
+mkdir -p Project_Files/Assets/Designs/Adobe_Files/{Photoshop,Illustrator,InDesign}
+
+mkdir -p Project_Files/Blogs/{Drafts/{Unpublished,Under_Review,Final_Edits},Published/{Medium,Personal_Website,Other_Platforms},Ideas/{To_Research,Outlines},SEO_Assets/{Keywords,Meta_Descriptions,Performance_Reports}}
+
+mkdir -p Project_Files/Writing_Assets/{Essays/{Personal_Essays,Analytical_Essays,Opinion_Pieces},Fiction/{Short_Stories,Novels,Flash_Fiction},Poetry/{Haikus,Free_Verse,Narrative_Poems},Scripts/{Screenplays,Comic_Scripts,Video_Scripts},Research/{Articles,Ebooks,Notes},Templates/{Blog_Templates,Email_Templates,Social_Posts,Story_Structure},Prompts/{Idea_Starters,ChatGPT,Creative_Writing},Storyboards,Scripts/{Podcast_Scripts,Interview_Scripts,Event_Scripts},Archive/{Retired_Blogs,Old_Essays,Abandoned_Projects,Unfinished_Drafts}}
+
+mkdir -p Project_Files/Misc/{Tools/{Plugins,Scripts},Feedback,Community_Engagement/{Comments,Polls,Discussions}}
